@@ -1,0 +1,109 @@
+.blogContent {
+    padding:50px 200px 400px 200px;
+}
+
+.blogContent p {
+    text-align: justify;
+    font-size: 22px;
+    line-height: 1.8;
+    letter-spacing: -.003em;
+    font-weight:300;
+    color: #695d46;
+    margin-bottom:50px;
+}
+
+.blogContent h1.title {
+    text-align: left;
+    color: orange;
+    font-size: 50px;
+    font-weight: 700;
+}
+
+.blogContent h1 {
+    color: orange;
+    font-size: 25px;
+    font-weight: 100;
+}
+
+.blogContent h2 {
+    color: #008575;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.blogContent h2.subTitle {
+    padding: 10px 0px 30px 0px;
+}
+
+.blogContent h3 {
+    color: orange;
+    font-size: 18px;
+    font-weight: 100;
+}
+
+.blogContent h4 {
+    color: orange;
+    font-size: 16px;
+    font-weight: 100;
+}
+
+
+.blogContent ul {
+    padding-left:30px;
+    margin:10px;
+}
+
+.blogContent li {
+    list-style-type: circle;
+}
+
+.blogContent p:first-child{
+    margin:0;
+}
+
+.blogContent p {
+    margin-top: 10px;
+}
+
+.blogContent code {
+    display:block;
+    margin:20px;
+    background-color: #f5f5f5;
+    font-family: Consolas, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, 'Bitstream Vera Sans Mono', Consolas, Courier, monospace;
+    padding: 20px;
+    font-size: 18px;
+    color: #c7254e;
+    line-height: 2;
+    letter-spacing: -.003em;
+    font-weight:300;
+
+}
+
+.blogContent blockquote {
+    margin-top:5px;
+    border-left: 2px solid #aaa;
+    padding: 20px;
+    padding-left: 40px;
+    margin: 0;
+    color: #aaa;
+    font-style: italic;
+    font-size: 28px;
+    line-height: 1.8;
+    letter-spacing: -.003em;
+    font-weight:300;
+    margin-bottom:50px;
+}
+
+.blogContent .gist {
+    padding:30px;
+}
+
+.blogContent .gist td {
+    font-size:18px;
+}
+
+.blogContent li {
+    color: #695d46;
+    font-weight:300;
+    font-size: 18px;
+}
